@@ -49,14 +49,14 @@ Dentro de cada deporte: filtros por tipo de producto, distancia o nivel, y clima
 
 **Si se vende en Perú:** pagos con tarjeta más Yape o Plin (Culqi, Niubiz o Mercado Pago), tarifas de envío por zona (Olva, Shalom, Urbaner) y moneda en soles.
 
-## Decisiones pendientes
+## Decisiones tomadas
 
-1. Modelo de negocio: ¿marca propia, marcas de terceros o dropshipping?
-2. Mercado: ¿solo Perú o también otros países?
-3. Catálogo: ¿cuántos productos al inicio (~20, ~100 o más)? ¿Fotos propias o hay que producirlas?
-4. Identidad: ¿logo, colores y tono de marca ya definidos o se parte de cero?
-5. Estado de Shopify: ¿cuenta y dominio ya creados?
+1. Modelo de negocio: **marcas de terceros**.
+2. Mercado: **Perú primero, otros países después**.
+3. Catálogo: **~20 productos al inicio, faltan fotos**.
+4. Identidad: **se parte de cero**.
+5. Estado de Shopify: **cuenta creada, sin dominio**.
 
 ## Siguiente paso
 
-Con las respuestas anteriores, primer entregable: **brief de marca y arquitectura de tienda** (navegación, colecciones, home y kits). Después, el tema base y la estructura del catálogo.
+Primer entregable listo: [`BRIEF_MARCA_Y_ARQUITECTURA.md`](BRIEF_MARCA_Y_ARQUITECTURA.md) (marca, navegación, colecciones, home, kits y hoja de ruta). Siguiente: elegir dirección de marca, marcas y productos, y dominio.
