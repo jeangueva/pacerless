@@ -98,6 +98,16 @@ Basado en el PDF `logos_de_referencia.pdf` que compartió Jean Pierre.
 2. **Mayúsculas espaciadas (estilo Peloton y Crossrope):** `PACERLESS` en peso medio con buen espaciado, y una línea fina que avanza hacia la derecha, en Pulso.
 3. **Monograma y nombre (lógica de Bandit y Crossrope):** una "p" redondeada con una abertura en el trazo, que sugiere la liebre ausente, junto al nombre en minúsculas.
 
+### Propuestas generadas en Canva (primera ronda)
+
+Cada diseño tiene dos páginas: versión principal e invertida.
+
+| Concepto | Enlace | Observaciones |
+|---|---|---|
+| 1. Minúsculas | https://canva.link/no03m4ipga76zpf | Limpio, bien escrito y legible en pequeño. La tipografía es correcta pero bastante genérica. |
+| 2. Mayúsculas con línea | https://canva.link/8ukq48dijomdxgv | Elegante, pero la línea de Pulso está descentrada (empieza bajo la "C" y sobrepasa la "S") y el peso es más fino que el pedido. |
+| 3. Monograma y nombre | https://canva.link/ynd9kguzzch0q0l | La "p" abierta tiene potencial como favicon, pero el trazo del símbolo no combina con la tipografía del nombre y el detalle naranja parece un indicador de carga. |
+
 ## Pendiente de verificar
 
 - Disponibilidad del nombre Pacerless como marca (INDECOPI) y de los usuarios en redes.
