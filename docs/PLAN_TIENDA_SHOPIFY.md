@@ -51,12 +51,12 @@ Dentro de cada deporte: filtros por tipo de producto, distancia o nivel, y clima
 
 ## Decisiones tomadas
 
-1. Modelo de negocio: **marcas de terceros**.
+1. Modelo de negocio: **productos genéricos comprados en Temu** (ver [`ABASTECIMIENTO.md`](ABASTECIMIENTO.md)).
 2. Mercado: **Perú primero, otros países después**.
 3. Catálogo: **~20 productos al inicio, faltan fotos**.
-4. Identidad: **se parte de cero**.
-5. Estado de Shopify: **cuenta creada, sin dominio**.
+4. Identidad: **se parte de cero**. Dirección elegida: Swim · Bike · Run con tono sereno y editorial ([`GUIA_DE_MARCA.md`](GUIA_DE_MARCA.md)). El logo hay que crearlo.
+5. Estado de Shopify: **cuenta creada, sin dominio**. Dominio elegido: **pacerless.com** (falta confirmar que esté libre y comprarlo).
 
 ## Siguiente paso
 
-Primer entregable listo: [`BRIEF_MARCA_Y_ARQUITECTURA.md`](BRIEF_MARCA_Y_ARQUITECTURA.md) (marca, navegación, colecciones, home, kits y hoja de ruta). Siguiente: elegir dirección de marca, marcas y productos, y dominio.
+Entregables listos: [`BRIEF_MARCA_Y_ARQUITECTURA.md`](BRIEF_MARCA_Y_ARQUITECTURA.md), [`GUIA_DE_MARCA.md`](GUIA_DE_MARCA.md) y [`ABASTECIMIENTO.md`](ABASTECIMIENTO.md). Siguiente: crear el logo y hacer las maquetas de home, colección y ficha.
