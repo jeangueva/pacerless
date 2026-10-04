@@ -63,10 +63,40 @@ Hay que crearlo. Entregables: logotipo principal, monograma para favicon y redes
 - Debe verse bien en tamaño pequeño (favicon) y en una sola tinta.
 - Colores: Tinta sobre Hueso, y versión inversa. El Pulso solo como detalle.
 
-**Tres conceptos para explorar:**
-1. **Línea:** wordmark con una línea fina que lo acompaña, como una pista.
-2. **Monograma:** una "p" con un corte o abertura, que sugiere la liebre ausente.
-3. **Tres trazos:** tres líneas paralelas discretas (nadar, pedalear, correr) junto al wordmark.
+### Análisis de los logos de referencia
+
+Basado en el PDF `logos_de_referencia.pdf` que compartió Jean Pierre.
+
+| Marca | Qué se ve | Lectura |
+|---|---|---|
+| Tracksmith | Nombre en letra cursiva tipo rotulado, con "NEW ENGLAND" en mayúsculas diminutas y una liebre saltando como símbolo (en el PDF, también sola en azul marino). | Herencia y tono editorial. |
+| Bandit | "BANDIT" en mayúsculas muy gruesas y compactas, más un monograma "B" hecho con una cinta curva. | Energía, comunidad, streetwear. |
+| Crossrope | Mayúsculas de peso medio con buen espaciado, más un símbolo de cuerda en bucle con movimiento. | Moderno y dinámico, sin ser agresivo. |
+| Gymshark | Mayúsculas muy gruesas y condensadas, una sola tinta. | Gimnasio, potencia. |
+| Aventon | Mayúsculas finas en cursiva, muy espaciadas, con la "A" sin barra horizontal. | Velocidad y tecnología. |
+| Triangl | Mayúsculas gruesas y condensadas, en blanco sobre foto. | Moda deportiva, fuerte. |
+| State | Mayúsculas extra gruesas, anchas e inclinadas. | Velocidad, actitud urbana. |
+| Peloton | Mayúsculas de peso medio, muy espaciadas, con "O" redondas, en blanco sobre bloque oscuro. | Limpio, premium, tecnológico. |
+| alo | Minúsculas redondas y muy gruesas, grandes y compactas. | Cercano y simple. Es la única en minúsculas junto con Tracksmith. |
+
+**Patrones:**
+- **Siete de nueve son mayúsculas** en tipografía sin serifa. Solo alo va en minúsculas y Tracksmith en cursiva.
+- **Una sola tinta**, negro o blanco. Ninguna usa un color de marca dentro del logo.
+- **Funcionan sobre foto:** Bandit, Triangl, Tracksmith y Crossrope se ven en blanco sobre imagen. El logo de Pacerless tiene que verse bien en Tinta sobre Hueso y en Hueso sobre foto u oscuro.
+- **Solo tres llevan símbolo** (Tracksmith, Bandit y Crossrope). El resto es solo el nombre.
+- **El movimiento se sugiere** con cursiva (Aventon, State), con una forma curva (Crossrope) o con un animal en salto (Tracksmith).
+
+**Lo que significa para Pacerless:**
+- **Cerca del tono sereno:** Peloton y Crossrope (peso medio, espaciado limpio) y alo (minúsculas, redondeado). Lejos: Gymshark, Triangl, State y Aventon, que son más agresivos.
+- **El nombre es largo** (9 letras). En mayúsculas muy gruesas se vuelve pesado; en minúsculas o con espaciado se lee mejor.
+- **Evitar la liebre.** Tracksmith usa una liebre como su símbolo, y "pacer" en carrera es justamente la liebre. Pacerless es "sin liebre", así que un conejo en el logo se leería como copia de Tracksmith. El concepto se puede expresar con un vacío o una abertura, no con el animal.
+- **No copiar** ningún trazo, forma ni símbolo de estas marcas: son referencias de estilo.
+
+### Tres conceptos para explorar
+
+1. **Minúsculas (estilo alo y Peloton):** `pacerless` en sans geométrica redondeada, peso semibold, espaciado ajustado. Solo el nombre.
+2. **Mayúsculas espaciadas (estilo Peloton y Crossrope):** `PACERLESS` en peso medio con buen espaciado, y una línea fina que avanza hacia la derecha, en Pulso.
+3. **Monograma y nombre (lógica de Bandit y Crossrope):** una "p" redondeada con una abertura en el trazo, que sugiere la liebre ausente, junto al nombre en minúsculas.
 
 ## Pendiente de verificar
 
