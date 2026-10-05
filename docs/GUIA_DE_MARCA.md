@@ -108,6 +108,19 @@ Cada diseño tiene dos páginas: versión principal e invertida.
 | 2. Mayúsculas con línea | https://canva.link/8ukq48dijomdxgv | Elegante, pero la línea de Pulso está descentrada (empieza bajo la "C" y sobrepasa la "S") y el peso es más fino que el pedido. |
 | 3. Monograma y nombre | https://canva.link/ynd9kguzzch0q0l | La "p" abierta tiene potencial como favicon, pero el trazo del símbolo no combina con la tipografía del nombre y el detalle naranja parece un indicador de carga. |
 
+### Logo elegido: concepto 1 (minúsculas)
+
+Se eligió el concepto 1 y se generó un kit en Canva: https://canva.link/i53zwkgowcsz2ss
+
+| Página | Contenido | Estado |
+|---|---|---|
+| 1 | Principal: `pacerless` en Tinta sobre Hueso | Buena. Es la versión de referencia. |
+| 2 | Invertida: texto claro sobre Tinta | El nombre salió con otra tipografía: más grueso y con las letras casi tocándose. No coincide con la página 1. |
+| 3 | Favicon: "p" sola sobre Tinta | La "p" es más gruesa que el nombre y tiene un pequeño halo oscuro en la esquina superior izquierda. |
+| 4 | Con acento: nombre más un punto Pulso | El punto quedó separado del nombre, como un punto suelto, y la tipografía vuelve a ser distinta. |
+
+**Conclusión:** solo la página 1 sirve tal cual. Canva generó cada página con una tipografía ligeramente distinta, así que las versiones invertida, favicon y acento hay que rehacerlas a partir de la página 1 (copiando su texto y cambiando el color) o como archivos vectoriales. La edición automática no permite elegir fuente ni espaciado.
+
 ## Pendiente de verificar
 
 - Disponibilidad del nombre Pacerless como marca (INDECOPI) y de los usuarios en redes.
