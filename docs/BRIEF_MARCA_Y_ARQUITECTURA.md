@@ -78,8 +78,8 @@ No pude comprobar desde esta sesión si está libre (la consulta fue bloqueada).
 |---|---|---|
 | 0. Base | Dirección de marca, dominio, tipo de producto | Hecha (falta comprar el dominio) |
 | 1. Marca | Paleta, tipografías, tono de voz, logo | Hecha: guía y logo vectorial en `assets/brand/logo/` (falta revisar el nombre en INDECOPI) |
-| 2. Diseño | Maquetas de home, colección y ficha (Figma o Canva) | Pendiente |
-| 3. Tema | Tema base de Shopify personalizado en este repo | Pendiente |
+| 2. Diseño | Diseño directo en código sobre el tema, sin pasar por Figma | Pendiente (esperando capturas de las referencias) |
+| 3. Tema | Tema base de Shopify personalizado en este repo | En curso: base Tinker 4.2.0 importada en `theme/` y validada (ver `TEMA_SHOPIFY.md`) |
 | 4. Catálogo | ~20 fichas con tags y metafields, kits, importación por CSV | Pendiente |
 | 5. Configuración | Pagos, envíos, impuestos, comprobantes, políticas, dominio | Pendiente |
 | 6. Lanzamiento | Pruebas de compra, emails automáticos, SEO, anuncio | Pendiente |
