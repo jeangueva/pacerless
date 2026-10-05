@@ -77,7 +77,7 @@ No pude comprobar desde esta sesión si está libre (la consulta fue bloqueada).
 | Fase | Entregable | Estado |
 |---|---|---|
 | 0. Base | Dirección de marca, dominio, tipo de producto | Hecha (falta comprar el dominio) |
-| 1. Marca | Paleta, tipografías, tono de voz, logo | Guía lista; falta crear el logo |
+| 1. Marca | Paleta, tipografías, tono de voz, logo | Hecha: guía y logo vectorial en `assets/brand/logo/` (falta revisar el nombre en INDECOPI) |
 | 2. Diseño | Maquetas de home, colección y ficha (Figma o Canva) | Pendiente |
 | 3. Tema | Tema base de Shopify personalizado en este repo | Pendiente |
 | 4. Catálogo | ~20 fichas con tags y metafields, kits, importación por CSV | Pendiente |

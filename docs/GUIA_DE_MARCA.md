@@ -36,6 +36,7 @@ Regla: los botones principales son Pulso con texto Tinta. El Pulso nunca se usa 
 
 - **Titulares:** Archivo (semibold o bold), con espaciado cómodo.
 - **Cuerpo:** Inter (regular y medium).
+- **Logo:** Outfit SemiBold, ya convertida a trazos en los archivos del logo. No se usa como fuente del sitio.
 
 Ambas son de Google Fonts. Hay que verificar que estén en la biblioteca de fuentes de Shopify; si no, se cargan como fuente personalizada del tema.
 
@@ -119,7 +120,11 @@ Se eligió el concepto 1 y se generó un kit en Canva: https://canva.link/i53zwk
 | 3 | Favicon: "p" sola sobre Tinta | La "p" es más gruesa que el nombre y tiene un pequeño halo oscuro en la esquina superior izquierda. |
 | 4 | Con acento: nombre más un punto Pulso | El punto quedó separado del nombre, como un punto suelto, y la tipografía vuelve a ser distinta. |
 
-**Conclusión:** solo la página 1 sirve tal cual. Canva generó cada página con una tipografía ligeramente distinta, así que las versiones invertida, favicon y acento hay que rehacerlas a partir de la página 1 (copiando su texto y cambiando el color) o como archivos vectoriales. La edición automática no permite elegir fuente ni espaciado.
+**Conclusión:** solo la página 1 sirve tal cual. Canva generó cada página con una tipografía ligeramente distinta, y la edición automática no permite elegir fuente ni espaciado.
+
+**Solución adoptada: logo vectorial.** Se rehízo el concepto 1 como archivos SVG y PNG con una sola tipografía en todas las versiones: **Outfit SemiBold (600)**, una fuente abierta (SIL OFL 1.1) de geometría casi igual a la página 1 de Canva. El texto está convertido a trazos, así que no hace falta instalar la fuente para usarlo. Los archivos están en [`assets/brand/logo/`](../assets/brand/logo/README.md): principal, invertida, nombre sobre fondo transparente (Tinta y Hueso), versión con acento (punto final en Pulso), icono "p" (512 px), favicon de 32 px e icono de 180 px.
+
+El kit de Canva queda solo como referencia; el logo oficial es el de `assets/brand/logo/`.
 
 ## Pendiente de verificar
 
